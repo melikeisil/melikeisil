@@ -55,9 +55,7 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikeisil&layout=compact&title_color=e8a6c1&text_color=cfc3d9&bg_color=141019&border_color=3a2c45&border_radius=10" alt="Top languages" />
 </p>
 
-## 📈 Activity
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=melikeisil&bg_color=141019&color=cfc3d9&line=e8a6c1&point=c9b6f2&area=true&area_color=e8a6c1&hide_border=true&radius=10" alt="Contribution activity graph" />
+username=melikeisil&bg_color=141019&color=cfc3d9&line=e8a6c1&point=c9b6f2&area=true&area_color=e8a6c1&hide_border=true&radius=10" alt="Contribution activity graph" />
 
 ## 🐍 Contributions
 
